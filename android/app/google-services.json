@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "436596287715",
+    "project_id": "quizcomadmin",
+    "storage_bucket": "quizcomadmin.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436596287715:android:dfe6f4fe1f077cc5e33dd6",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQdzKlbfsi72mTrwboQZwBFh4t4Tbr0-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
